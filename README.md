@@ -1,1 +1,1 @@
-[https://de-re.github.io](Deployment repository)
+[Deployment repository](https://de-re.github.io)
